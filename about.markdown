@@ -6,7 +6,7 @@ permalink: /about/
 
 !["Sunset picture at Pigeon Island."](/img/view.jpeg)
 
-Hi! I'm Javhaan, and welcome to my GitHub website 😁. I'm from the beautiful island of Saint Lucia 🇱🇨. The photo above was taken at the Pigeon Island National Park.
+Hello! My name is Lawann, and welcome to my GitHub website . I'm from the beautiful island of Saint Lucia 🇱🇨. The photo above was taken at the Pigeon Island National Park.
 
 I have a deep passion for both technology and languages, which have become defining aspects of my life. My love for languages is particularly evident in my proficiency in French, where I hold a certified B2 level 🥖, and my ongoing journey in mastering the intricacies of German, a language I am self-learning with great enthusiasm. Technology, on the other hand, is a realm that constantly fascinates me. I find joy in exploring new gadgets, whether it's the latest laptops 🧑🏾‍💻, cutting-edge smartphones 📱, or any tech innovation that promises to enhance people's lives. However, I am also mindful of the potential pitfalls of technology dependency 😮‍💨, especially in the realm of social media. I've made a conscious effort to reduce my time spent on platforms like Tiktok and instead, I'm actively working on regaining my focus on long-form content, recognizing the importance of a balanced relationship with technology 🧘🏾‍♂️.
 
